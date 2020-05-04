@@ -1,6 +1,7 @@
 # exb1610javafx
 
  - > git clone https://github.com/prodageo/exb1610javafx.git
+ - > cd exb1610javafx
  - > mvn javafx:run
 ```
 [INFO] Scanning for projects...
