@@ -32,3 +32,5 @@
 [INFO] Final Memory: 15M/57M
 [INFO] ------------------------------------------------------------------------
 ```
+## Voir aussi
+[EXB1609](https://github.com/prodageo/exb1609) : créer un projet JavaFX de novo (_from scratch_).
